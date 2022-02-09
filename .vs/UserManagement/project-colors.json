@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4fa98390-739e-448b-ab25-bf557c0fbba4": {
+      "ProjectGuid": "4fa98390-739e-448b-ab25-bf557c0fbba4",
+      "DisplayName": "UserManagement.API",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

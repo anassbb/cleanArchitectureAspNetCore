@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = UserManagement.Domain
+build_property.ProjectDir = C:\Users\anasa\source\repos\UserManagement\cleanArchitectureAspNetCore\UserManagement.Domain\

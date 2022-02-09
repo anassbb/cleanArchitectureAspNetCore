@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Da05vYHQ6W0usqdv8Yvk0AYsyaJNHXb3JKNvshUUqtl7/d7Cgijj7FP/4R8BXVWjLFQqR3P0bJlVQhcwyqi7AQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\anasa\\source\\repos\\UserManagement\\cleanArchitectureAspNetCore\\UserManagement.Domain\\UserManagement.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anasa\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\anasa\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
